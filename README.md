@@ -1,6 +1,6 @@
 # Rendering Engine
 
-An OpenGL rendering engine developed to support various advanced graphics rendering techniques. The engine incorporates several key features aimed at enhancing the realism and quality of the rendered scenes. 
+OpenGL Rendering Engine that supports advanced rendering techniques such as Physically-Based Rendering (PBR), Image-Based Lighting (IBL), HDR skyboxes, and dynamic soft shadows, enabling the creation of visually compelling and realistic scenes.
 
 ![1](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/bc09968b-ec65-450b-85a1-fc4b21e1cff8)
 
