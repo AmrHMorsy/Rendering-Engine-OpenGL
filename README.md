@@ -2,7 +2,7 @@
 
 OpenGL Rendering Engine that features Physically-Based Rendering (PBR), Image-Based Lighting (IBL), HDR skyboxes, and dynamic soft shadows. The engine also leverages Tessellation shaders to dynamically refine mesh detail at runtime and anti-aliasing to reduce visual artifacts, enabling the creation of visually compelling and realistic scenes.
 
-![Screenshot 2024-02-13 at 19 35 18](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/5e221094-69ef-488c-b250-2213d68dcaf1)
+![1](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/d8461c13-9cfc-450c-9a43-c4c5ee7476e3)
 
 ## Features 
 
