@@ -27,5 +27,3 @@ Supports High Dynamic Range (HDR) images for skyboxes, enhancing the dynamic ran
 ### Dynamic Soft Shadows
 
 Features the calculation of soft shadows that dynamically change with the light source position, providing more realistic shadowing effects.
-
-![5](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/ea02621a-abae-45b5-a2ca-287e564d0d50)
