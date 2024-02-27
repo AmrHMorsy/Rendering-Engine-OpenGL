@@ -11,9 +11,15 @@ OpenGL Rendering Engine that features Physically-Based Rendering (PBR), Image-Ba
 
 Implements PBR to simulate realistic lighting and material interactions based on physically accurate models.
 
+![image-7](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/82f682b7-3400-4266-9a29-9f872c158f89)
+
+
 ### Image-Based Lighting (IBL)
 
 Utilizes environment maps captured from real-world images to provide realistic ambient lighting.
+
+![Screenshot 2024-02-27 at 00 11 21](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/0292cef2-406f-4c3a-9585-3ebada04c920)
+
 
 ### HDR Skyboxes
 
