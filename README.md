@@ -18,9 +18,6 @@ Implements PBR to simulate realistic lighting and material interactions based on
 
 Utilizes environment maps captured from real-world images to provide realistic ambient lighting.
 
-![Screenshot 2024-02-27 at 00 11 21](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/0292cef2-406f-4c3a-9585-3ebada04c920)
-
-
 ### HDR Skyboxes
 
 Supports High Dynamic Range (HDR) images for skyboxes, enhancing the dynamic range of lighting in scenes.
