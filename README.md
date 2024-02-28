@@ -4,8 +4,6 @@ OpenGL Rendering Engine that features Physically-Based Rendering (PBR), Image-Ba
 
 ![1](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/fb130eef-aa40-4ffd-b9f1-203691813edb)
 
-![image-7](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/306aa56c-431d-4047-9289-3b8e0681225c)
-
 ## Features 
 
 ### Physically-Based Rendering (PBR)
