@@ -11,7 +11,7 @@ OpenGL Rendering Engine that features Physically-Based Rendering (PBR), Image-Ba
 
 PBR techniques are employed to simulate realistic material properties. This approach ensures that the water surface in the simulation accurately reflects and refracts light, mimicking the way light interacts with natural water. The result is a stunningly realistic depiction of the ocean, complete with nuanced lighting effects.
 
-![2](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/9b3b3cf6-e3b1-4920-bd46-1f22893a3176)
+![Screenshot 2024-02-28 at 00 29 36](https://github.com/AmrHMorsy/OpenGL-Rendering-Engine/assets/56271967/438d0f02-3d0f-4ce7-99f6-127c5a7c0b68)
 
 #### Image-Based Lighting (IBL)
 
@@ -23,19 +23,19 @@ To further improve visual fidelity, Image-Based Lighting (IBL) is used. This tec
 
 An HDR (High Dynamic Range) Skybox is introduced to present a more dynamic and immersive sky. This feature captures the vast range of luminance of real-world skies, from the brightest clouds to the darkest nights, creating a more lifelike backdrop that enhances the visual experience.
 
-![4](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/31a8dfd9-cb2d-470f-8046-9366c814b808)
+![2](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/9b3b3cf6-e3b1-4920-bd46-1f22893a3176)
 
 #### Frustum Culling
 
 This engine uses frustum culling to optimize the performance. By rendering only the elements that are within the player's field of view, it significantly reduces the processing load. This optimization ensures smooth and responsive performance, even when rendering complex scenes.
 
-![5](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/ad5f8732-3a4a-4ae4-8447-a708a480dc0a)
+![7](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/b89cf85a-225a-4529-ab44-aec8bfdf1408)
 
 ### Dynamic Soft Shadows
 
 Features the calculation of soft shadows that dynamically change with the light source position, providing more realistic shadowing effects.
 
-![6](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/addef8a1-5271-40bb-bd55-4058e4c5d329)
+![Screenshot 2024-02-28 at 00 24 44](https://github.com/AmrHMorsy/OpenGL-Rendering-Engine/assets/56271967/c33a0492-9161-45fe-bf42-8fa7b660be3b)
 
 ## Installation
 
@@ -68,5 +68,3 @@ make
 ./Rendering_Engine
 ```
 <br>
-
-![7](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/b89cf85a-225a-4529-ab44-aec8bfdf1408)
