@@ -23,7 +23,7 @@ To further improve visual fidelity, Image-Based Lighting (IBL) is used. This tec
 
 An HDR (High Dynamic Range) Skybox is introduced to present a more dynamic and immersive sky. This feature captures the vast range of luminance of real-world skies, from the brightest clouds to the darkest nights, creating a more lifelike backdrop that enhances the visual experience.
 
-![2](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/9b3b3cf6-e3b1-4920-bd46-1f22893a3176)
+![A](https://github.com/AmrHMorsy/OpenGL-Rendering-Engine/assets/56271967/3c22484b-c6e8-492f-987e-97bf198f6ee7)
 
 #### Frustum Culling
 
