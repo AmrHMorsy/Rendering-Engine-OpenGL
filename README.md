@@ -29,7 +29,7 @@ An HDR (High Dynamic Range) Skybox is introduced to present a more dynamic and i
 
 This engine uses frustum culling to optimize the performance. By rendering only the elements that are within the player's field of view, it significantly reduces the processing load. This optimization ensures smooth and responsive performance, even when rendering complex scenes.
 
-![Screenshot 2024-02-28 at 00 24 44](https://github.com/AmrHMorsy/OpenGL-Rendering-Engine/assets/56271967/c33a0492-9161-45fe-bf42-8fa7b660be3b)
+![Q](https://github.com/AmrHMorsy/OpenGL-Rendering-Engine/assets/56271967/50d9da36-a258-432a-b9a7-052a1901fe93)
 
 ### Dynamic Soft Shadows
 
