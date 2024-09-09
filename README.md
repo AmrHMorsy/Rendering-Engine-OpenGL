@@ -38,6 +38,11 @@ Features the calculation of soft shadows that dynamically change with the light 
 
 ![7](https://github.com/AmrHMorsy/Rendering-Engine/assets/56271967/b89cf85a-225a-4529-ab44-aec8bfdf1408)
 
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.  
+[Read the full license here](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 ## Installation
 
 1. Clone the repository:
